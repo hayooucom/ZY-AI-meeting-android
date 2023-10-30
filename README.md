@@ -15,7 +15,16 @@ Click the setting function to set the username and refresh the page. There is a 
 
 If you have any questions or suggestions, please contact us via WeChat: youkpan
 
-Show AI meeting minutes ZYmeeting v1.2.apk download
+Notic : cause github limit ,we removed ZYMeeting-public\app\src\main\assets\d file ,
+please download from :
+https://drive.google.com/drive/folders/1h_UfvafJI4fjDFxMuZRcKtx-45pOaiJY?usp=drive_link
+
+or:
+
+https://drive.google.com/drive/folders/1h_UfvafJI4fjDFxMuZRcKtx-45pOaiJY?usp=drive_link
+
+
+ZYinfo AI meeting minutes ZYmeeting v1.2.apk download
 
 Baidu cloud:
 https://pan.baidu.com/s/1tKJGW2BHZ9WBzGzkRRPAFQ?pwd=5566
